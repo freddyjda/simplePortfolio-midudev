@@ -1,0 +1,35 @@
+---
+import Section from "../Section.astro"
+
+import { basics, languages, interests } from "@cv"
+const { summary } = basics
+
+---
+
+<Section title="About me">
+  <p>
+    {summary}
+    <footer> Languages: {languages.map((language) => {return <span>{language.language} {language.fluency}</span>})}</footer>
+  </p>
+</Section>
+
+<style>
+
+  footer {
+    display: flex;
+    font-size: 14px;
+  }
+
+  span {
+    border-radius: 6px;
+    border: 1px solid;
+    border-color: rgb(204, 187, 187);
+    font-size: 0.8rem;
+    font-weight: 500;
+    gap: 4px;
+    padding: 0.1rem 0.1rem;
+    margin-right: 4px;
+    margin-left: 3px;
+  }
+
+</style>

@@ -1,0 +1,155 @@
+{
+    "basics": {
+      "name": "Freddy Jose Diaz Arias",
+      "label": "Backend developer",
+      "image": "https://avatars.githubusercontent.com/u/78168014?v=4",
+      "email": "freddyjda1@gmail.com",
+      "phone": "+58 412-8521068",
+      "url": "",
+      "summary": "Young man with a few years of self-taught practice as a web developer. I am currently a student and job seeker in the development area. I live in valles del tuy Venezuela.",
+      "location": {
+        "address": "",
+        "postalCode": "08820",
+        "city": "Valles Of Tuy Miranda",
+        "countryCode": "ES",
+        "region": "Venezuela"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Freddy Diaz",
+          "url": "https://www.linkedin.com/in/freddy-diaz-310884228/"
+        },
+        {
+          "network": "GitHub",
+          "username": "freddyjda",
+          "url": "https://github.com/freddyjda"
+        }
+      ]
+    },
+    "work": [
+      
+      {
+        "name": "Technology vision zurikato",
+        "position": "Trainee Backend Developer",
+        "startDate": "2019-03-01",
+        "endDate": "2020-05-01",
+        "summary": "I worked on geo tracking, and cameras security systems for cars, using google maps services and javascript and typescript api and socket communication.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "education": [{
+      "institution": "Instituto Universitario Jose Maria carreño",
+      "url": "http://www.iutjmc.com.ve/",
+      "area": "Human resources",
+      "studyType": "Bachelor",
+      "startDate": "2018-01-01",
+      "endDate": "Paused"
+    }],
+    "skills": [
+      
+      {
+        "name": "Node",
+        "level": "Advanced",
+        "keywords": [
+          "Web development", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Intermediate",
+        "keywords": [
+          "Web development", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "HTML",
+        "level": "Intermediate",
+        "keywords": [
+          "Web development", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Basic",
+        "keywords": [
+          "Web development", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Basic",
+        "keywords": [
+          "Web development", "Backend"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Basic",
+        "keywords": [
+          "Bases de Datos", "SQL", "Database", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Basic",
+        "keywords": [
+          "Version control", "Collaboration", "Source code"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Intermediate",
+        "keywords": [
+          "Version control", "Collaboration", "Source code", "Git"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Basic",
+        "keywords": [
+          "Web development", "Frontend", "React Framework", "SSR"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Basic",
+        "keywords": [
+          "Web development", "Frontend", "UI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "interests": [{
+      "name": "",
+      "keywords": [
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "mars.codes",
+        "isActive": true,
+        "description": "Interactive story with programming challenges to travel to Mars",
+        "highlights": [
+          "Choose your own adventure",
+          "In progress"
+        ],
+        "url": "https://mars.codes"
+      }
+    ]
+  }
